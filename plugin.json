@@ -1,0 +1,13 @@
+{
+    "ID":"a6153e198f8a4dd5b44434ef7c9d82f3",
+    "ActionKeyword":"unicode",
+    "Name":"Unicode编码与解码",
+    "Description":"Unicode的编码与解码",
+    "Author":"Wox",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/tablebird/Wox.Plugin.Unicode-Encode_Decode",
+    "ExecuteFileName":"Wox.Plugin.Unicode Encode_Decode.dll",
+    "IcoPath":"Images\\unicode.png",
+    "Disabled": true
+}
